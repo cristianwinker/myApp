@@ -1,1 +1,1 @@
-# myApp com ionic 3 e angular 5
+# myApp com ionic3 e angular5
